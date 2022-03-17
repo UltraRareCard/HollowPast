@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HollowPast
+- 👀 I’m interested in becoming UltraProJS coder :D
+- 🌱 I’m currently learning JS && Python
+- 📫 My UltraDiary with notes of my teaching https://t.me/UltraRare_Card
